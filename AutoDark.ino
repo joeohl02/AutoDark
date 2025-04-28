@@ -2,8 +2,8 @@
 #include <WebServer.h>
 
 // WiFi credentials
-const char* wifiName = "JAL";
-const char* wifiPassword = "JoelAlveLeo020609";
+const char* wifiName = "";
+const char* wifiPassword = "";
 
 // Stepper motor pin setup
 const int stepperMotorPins[4] = {13, 14, 15, 16};  // IN1 to IN4 of ULN2003
